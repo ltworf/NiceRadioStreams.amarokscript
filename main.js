@@ -44,7 +44,10 @@ var stationArray = new Array (
     new Station( "Radio Swiss Jazz","http://www.radioswissjazz.ch/live/mp3.m3u"),
 
     // INTERNATIONAL STATIONS
-    new Station( "BBC World Service","http://lbw2.flash.streamuk.com/_bbc/ch2.stream/playlist.m3u8")
+    new Station( "BBC World Service","http://lbw2.flash.streamuk.com/_bbc/ch2.stream/playlist.m3u8"),
+
+    // Italian streams
+    new Station("Radio Radicale","http://livemp3.radioradicale.it/live.mp3"),
 );
 
 function BBCRadioStreams()
