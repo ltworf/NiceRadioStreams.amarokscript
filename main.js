@@ -47,7 +47,7 @@ var stationArray = new Array (
     new Station( "BBC World Service","http://lbw2.flash.streamuk.com/_bbc/ch2.stream/playlist.m3u8"),
 
     // Italian streams
-    new Station("Radio Radicale","http://livemp3.radioradicale.it/live.mp3"),
+    new Station("Radio Radicale","http://livemp3.radioradicale.it/live.mp3")
 );
 
 function BBCRadioStreams()
